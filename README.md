@@ -1,5 +1,7 @@
 README
 
-Week 06 Coding Assignment
+Week 06 Coding Assignment:
 
-Please see the link:
+Java Final Coding Project
+
+Please see the link: https://github.com/DerekPromineo80/week06CodingAssignment/tree/main/src/week06CodingAssignment
